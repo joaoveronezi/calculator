@@ -9,7 +9,7 @@ const styles = StyleSheet.create({
     padding: 20,
     backgroundColor: '#f0f0f0',
     textAlign: 'center',
-    borderWidth: 1,
+    borderWidth: 0.5,
     borderColor: '#888',
   },
   operationButton: {
